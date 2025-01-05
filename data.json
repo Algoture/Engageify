@@ -1,0 +1,72 @@
+[
+  {
+    "post_id": 1,
+    "post_type": "carousel",
+    "likes": 120,
+    "shares": 30,
+    "comments": 15
+  },
+  {
+    "post_id": 2,
+    "post_type": "reel",
+    "likes": 200,
+    "shares": 50,
+    "comments": 40
+  },
+  {
+    "post_id": 3,
+    "post_type": "static",
+    "likes": 80,
+    "shares": 10,
+    "comments": 5
+  },
+  {
+    "post_id": 4,
+    "post_type": "carousel",
+    "likes": 150,
+    "shares": 35,
+    "comments": 20
+  },
+  {
+    "post_id": 5,
+    "post_type": "reel",
+    "likes": 250,
+    "shares": 60,
+    "comments": 50
+  },
+  {
+    "post_id": 6,
+    "post_type": "static",
+    "likes": 90,
+    "shares": 12,
+    "comments": 8
+  },
+  {
+    "post_id": 7,
+    "post_type": "carousel",
+    "likes": 180,
+    "shares": 40,
+    "comments": 25
+  },
+  {
+    "post_id": 8,
+    "post_type": "reel",
+    "likes": 300,
+    "shares": 80,
+    "comments": 70
+  },
+  {
+    "post_id": 9,
+    "post_type": "static",
+    "likes": 100,
+    "shares": 15,
+    "comments": 10
+  },
+  {
+    "post_id": 10,
+    "post_type": "carousel",
+    "likes": 200,
+    "shares": 50,
+    "comments": 30
+  }
+]
